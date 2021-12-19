@@ -1,0 +1,9 @@
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\DemoLambda.dll
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\DemoLambda.deps.json
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\DemoLambda.runtimeconfig.json
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\DemoLambda.pdb
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\venka\source\repos\DemoLambda\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll
